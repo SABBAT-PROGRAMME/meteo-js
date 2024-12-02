@@ -23,3 +23,9 @@ body {
   background: rgba(178, 223, 251, 0.3);
   cursor: pointer;
 }
+
+#tempsActuelle {
+  background-color: white;
+  padding: 1em;
+  border-radius: 1em;
+}
